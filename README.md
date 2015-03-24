@@ -1,4 +1,4 @@
-Braintree for Laravel 4
+Braintree for Laravel 5
 ==============
 
 ### Installation
